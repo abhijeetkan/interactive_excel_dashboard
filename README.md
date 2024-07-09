@@ -9,4 +9,5 @@ The problem statements which were solved using the interactive excel dashboard a
 6. Relation between age and gender based on number of orders.						
 7. Which channel is contributing to maximum sales?
 
+![Dashboard](https://github.com/abhijeetkan/interactive_excel_dashboard/assets/62520532/db2b8b8c-ac86-49b1-8386-aa32ddb01a46)
 
