@@ -11,3 +11,14 @@ The problem statements which were solved using the interactive excel dashboard a
 
 ![Dashboard](https://github.com/abhijeetkan/interactive_excel_dashboard/assets/62520532/db2b8b8c-ac86-49b1-8386-aa32ddb01a46)
 
+Tools/Skills Used:-
+Pivot Tables
+Formatting
+Slicers
+Pivot Charts
+Sort and Filters
+Tables
+Find and Replace
+Power Query
+Data Cleaning Functions
+Visualization
